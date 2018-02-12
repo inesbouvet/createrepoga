@@ -1,2 +1,2 @@
-# createrepogy
-create github repository test GA
+# createrepoga
+create github repository GA
